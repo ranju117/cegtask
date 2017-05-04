@@ -1,0 +1,23 @@
+* Styles go here */
+/* Styles go here */
+body
+{background-color:blue;
+  
+}
+h1
+{
+  color:white;
+  text-align:center;
+}
+h2
+{
+  text-align:right;
+  font-size:20px;
+  font-family:"comic sans ms";
+  
+  
+}
+p
+{
+  font-family:"comic sans ms";
+}
